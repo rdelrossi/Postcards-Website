@@ -16,16 +16,16 @@ output:
  
 ## Bio
 
-I'm Robert DelRossi, a leader with a background in strategic planning, software development, 
-and general business operations. I've has worked in financial services, retail software development, 
-and in entertainment industries. My core ideology centers on deeply held beliefs in authenticity, 
-transparency, excellence of execution and continuous improvement. 
+I'm Robert DelRossi. I've a background in strategic planning, software development, 
+and general business operations. I have worked in the financial services, retail software development, 
+and in entertainment industries. My core ideology centers on deeply considered beliefs in 
+authenticity, transparency, excellence of execution and continuous improvement. 
 
-Key among my business competencies are as team-builder, performance-developer,
+Key among my business competencies are as a team-builder, performance-developer,
 communicator, and optimization-champion. As a technologist, my strengths include 
 extensive knowledge of systems development processes, the development of sustainable
 architectures, solution evangelization, and in leveraging the value of data to 
-optimize business performance.
+optimize business performance. 
 
 Outside of work, I'm a rabid baseball fan, cook, want-to-be musician, and amateur bartender. 
 
