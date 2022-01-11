@@ -1,0 +1,46 @@
+---
+title: "Robert DelRossi"
+image: "rdr.jpg"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/in/rdelrossi"
+  - label: Twitter
+    url: "https://twitter.com/rdelrossi"
+  - label: GitHub
+    url: "https://github.com/rdelrossi"
+  - label: Email
+    url: "mailto:rdr@rdelrossi.com"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+I'm Robert DelRossi, a leader with a background in strategic planning, software development, 
+and general business operations. I've has worked in financial services, retail software development, 
+and in entertainment industries. My core ideology centers on deeply held beliefs in authenticity, 
+transparency, excellence of execution and continuous improvement. 
+
+Key among my business competencies are as team-builder, performance-developer,
+communicator, and optimization-champion. As a technologist, my strengths include 
+extensive knowledge of systems development processes, the development of sustainable
+architectures, solution evangelization, and in leveraging the value of data to 
+optimize business performance.
+
+Outside of work, I'm a rabid baseball fan, cook, want-to-be musician, and amateur bartender. 
+
+## Experience
+
+**Gamblit Gaming, LLC** | Board Member | Audit Committee | Compensation Committee | August 2018 - present
+
+**Crave / WhatsGood** | Advisor, Consumer Technology | June 2018 - October 2020
+
+**Rocket Gaming Systems** | Chief Operating Officer | March 2017 - December 2016
+
+**Aristocrat Gaming** | Global Chief Technology Officer | General Manager Global Systems | Vice President R&D | January 2002 - February 2007
+
+**TurboPower Software Company** | President | October 1997 - December 2001
+
+## Education
+
+**Boston University** | Boston, MA
